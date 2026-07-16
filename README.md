@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **aliallu3xa@gmail.com**
 
-- ⚡ Fun fact **I'm a weeb**
+- ⚡ Fun fact **I'm a Otaku**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
