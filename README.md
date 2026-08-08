@@ -49,8 +49,8 @@ Databases
 <a href="https://qdrant.tech/" target="_blank"><img src="https://img.shields.io/badge/Qdrant-1C1C1C?style=for-the-badge&logo=qdrant&logoColor=white" alt="Qdrant" style="margin: 4px;" /></a>
 <a href="https://www.pgvector.org/" target="_blank"><img src="https://img.shields.io/badge/pgvector-007396?style=for-the-badge&logo=postgresql&logoColor=white" alt="pgvector" style="margin: 4px;" /></a>
 <a href="https://www.mongodb.com/" target="_blank"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="margin: 4px;" /></a>
-<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="margin: 4px;" /></a><a href="https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing" target="_blank"><img src="https://img.shields.io/badge/OKF-open--knowledge--format-red?style=for-the-badge&logoColor=white&labelColor=blue
-" alt="OKF" style="margin: 4px;" /></a>
+<a href="https://redis.io/" target="_blank"><img src="https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" style="margin: 4px;" /></a>
+<a href="https://cloud.google.com/blog/products/data-analytics/how-the-open-knowledge-format-can-improve-data-sharing" target="_blank"><img src="https://img.shields.io/badge/OKF-open--knowledge--format-red?style=for-the-badge&logoColor=white&labelColor=blue" alt="OKF" style="margin: 4px;" /></a>
 
 Cloud & DevOps
 
