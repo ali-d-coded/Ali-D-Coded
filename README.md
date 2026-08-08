@@ -73,7 +73,7 @@ AI Tools
 <a href="https://www.antigravity.ai/" target="_blank"><img src="https://img.shields.io/badge/Antigravity-1E1E1E?style=for-the-badge&logo=ghost&logoColor=white" alt="Antigravity" style="margin: 4px;" /></a>
 <a href="https://openai.com/codex" target="_blank"><img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" style="margin: 4px;" /></a>
 <a href="https://workspace.google.com/products/gemini/" target="_blank"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" style="margin: 4px;" /></a>
-<a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=terminal&logoColor=white" alt="Ollama" style="margin: 4px;" /></a>
+<a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" style="margin: 4px;" /></a>
 <a href="https://huggingface.co/inference-api" target="_blank"><img src="https://img.shields.io/badge/HuggingFace_Embeddings-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Embeddings" style="margin: 4px;" /></a>
 <a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" style="margin: 4px;" /></a>
 
