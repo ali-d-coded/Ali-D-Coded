@@ -60,22 +60,23 @@ Cloud & DevOps
 
 Architecture & Practices
 
-  <img src="https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge" alt="Microservices" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/Modular_Monolith-4B0082?style=for-the-badge" alt="Modular Monolith" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/Distributed_Systems-191970?style=for-the-badge" alt="Distributed Systems" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/CI%2FCD-20B2AA?style=for-the-badge" alt="CI/CD" style="margin: 4px;" />
-  <img src="https://img.shields.io/badge/Clean_Architecture-4B8BBE?style=for-the-badge" alt="Clean Architecture" style="margin: 4px;" />
-  
-   AI Tools 
-   
-  <a href="https://openai.com/chatgpt" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" style="margin: 4px;" /></a>
-  <a href="https://www.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" style="margin: 4px;" /></a>
-  <a href="https://www.antigravity.ai/" target="_blank"><img src="https://img.shields.io/badge/Antigravity-1E1E1E?style=for-the-badge&logo=ghost&logoColor=white" alt="Antigravity" style="margin: 4px;" /></a>
-  <a href="https://openai.com/codex" target="_blank"><img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" style="margin: 4px;" /></a>
-  <a href="https://workspace.google.com/products/gemini/" target="_blank"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" style="margin: 4px;" /></a>
-  <a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=terminal&logoColor=white" alt="Ollama" style="margin: 4px;" /></a>
-  <a href="https://huggingface.co/inference-api" target="_blank"><img src="https://img.shields.io/badge/HuggingFace_Embeddings-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Embeddings" style="margin: 4px;" /></a>
-  <a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" style="margin: 4px;" /></a>
+<a href="https://microservices.io/" target="_blank"><img src="https://img.shields.io/badge/Microservices-8A2BE2?style=for-the-badge" alt="Microservices" style="margin: 4px;" /></a>
+<a href="https://martinfowler.com/articles/modular-monolith.html" target="_blank"><img src="https://img.shields.io/badge/Modular_Monolith-4B0082?style=for-the-badge" alt="Modular Monolith" style="margin: 4px;" /></a>
+<a href="https://en.wikipedia.org/wiki/Distributed_computing" target="_blank"><img src="https://img.shields.io/badge/Distributed_Systems-191970?style=for-the-badge" alt="Distributed Systems" style="margin: 4px;" /></a>
+<a href="https://en.wikipedia.org/wiki/Continuous_integration" target="_blank"><img src="https://img.shields.io/badge/CI%2FCD-20B2AA?style=for-the-badge" alt="CI/CD" style="margin: 4px;" /></a>
+<a href="https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html" target="_blank"><img src="https://img.shields.io/badge/Clean_Architecture-4B8BBE?style=for-the-badge" alt="Clean Architecture" style="margin: 4px;" /></a>
+
+AI Tools
+
+<a href="https://openai.com/chatgpt" target="_blank"><img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" style="margin: 4px;" /></a>
+<a href="https://www.anthropic.com/" target="_blank"><img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude" style="margin: 4px;" /></a>
+<a href="https://www.antigravity.ai/" target="_blank"><img src="https://img.shields.io/badge/Antigravity-1E1E1E?style=for-the-badge&logo=ghost&logoColor=white" alt="Antigravity" style="margin: 4px;" /></a>
+<a href="https://openai.com/codex" target="_blank"><img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" style="margin: 4px;" /></a>
+<a href="https://workspace.google.com/products/gemini/" target="_blank"><img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini" style="margin: 4px;" /></a>
+<a href="https://ollama.com/" target="_blank"><img src="https://img.shields.io/badge/Ollama-111111?style=for-the-badge&logo=terminal&logoColor=white" alt="Ollama" style="margin: 4px;" /></a>
+<a href="https://huggingface.co/inference-api" target="_blank"><img src="https://img.shields.io/badge/HuggingFace_Embeddings-FF6F00?style=for-the-badge&logo=huggingface&logoColor=white" alt="HuggingFace Embeddings" style="margin: 4px;" /></a>
+<a href="https://github.com/features/copilot" target="_blank"><img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" style="margin: 4px;" /></a>
+
 </p>
   
 ---
